@@ -103,7 +103,7 @@ def run_exercises():
     rules = get_knowledge_base()
     
     print("=" * 60)
-    print("Experiment 3: Forward Chaining Inference Engine")
+    print("Experiment 4: Forward Chaining Inference Engine")
     print("=" * 60)
     
     print("\n--- Exercise 1: Identify a tiger, a giraffe, and a zebra ---")
